@@ -1,0 +1,18 @@
+### Rust ###
+*.o
+*.so
+*.rlib
+*.dll
+*.exe
+
+### Cargo ###
+target
+Cargo.lock
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
