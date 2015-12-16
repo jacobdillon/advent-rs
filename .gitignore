@@ -5,6 +5,9 @@
 *.dll
 *.exe
 
+## rustfmt ##
+*.bk
+
 ### Cargo ###
 target
 Cargo.lock
